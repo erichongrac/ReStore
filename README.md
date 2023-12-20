@@ -1,5 +1,5 @@
 ## Tech Stack
-Front-end: React 18, Redux toolkit
+Front-end: React 18, Redux toolkit <br />
 Back-end: .NET 6
 
 
